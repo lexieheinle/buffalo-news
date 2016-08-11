@@ -1,0 +1,15 @@
+#filter {
+  padding-top: 10px;
+}
+.card {
+  margin: 5px;
+}
+body {
+  font-family: 'Lora', serif;
+  margin: 0 10px;
+  line-height: 1.5;
+}
+.element-item {
+  max-width: 250px;
+  padding: 5px;
+}

@@ -27,7 +27,7 @@ While I created [Buffalo News styles](http://lexie.link/lunchbox), I gained fami
 Similar to the Lunchbox application, this project also taught me how to add new flask commands as well as integrate Google Sheets into D3 code.
 
 ### [Erie County Fair App](FairApp)
-Using the Carla Astudillo's [Feats Thru Sheets](https://github.com/CarlaAstudillo/feats_thru_sheets) program, I used IFFF to pull in reporters' tweets of the Erie County Fair.
+Using the Carla Astudillo's [Feats Thru Sheets](https://github.com/CarlaAstudillo/feats_thru_sheets) program, I used IFTTT to pull in reporters' tweets of the Erie County Fair.
 [Erie County Fair food: Live tweets from the scene](http://lexie.link/erie-food-app)
 
 ### [Erie County Fair Map](https://github.com/lexieheinle/fair-food-twitter)

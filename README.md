@@ -17,7 +17,11 @@ Using the previous Niagara Falls code, I amended the map for a breaking news sit
 To showcase each individual school's college-bound rate, I used a combination of dropdown selection as well as a hover effect to provide context and visibility of the overall trend.
 [More Buffalo grads going to college through Say Yes](http://lexie.link/say-yes)
 
-## Newsroom Tools & Projects
+### [NewYorkCollegeSports](NewYorkCollegeSports)
+Using data from New York colleges, I compared spending per athletic per team as well as showing how each schools' expenditures compares to similar colleges.
+[Area colleges boost spending on sports teams to lure students](http://lexie.link/new-york-sports)
+
+## Newsroom Tools
 I've adapted a couple of fantastic open source programs for the newsroom's use.
 
 ### [Lunchbox](https://github.com/lexieheinle/lunchbox)
@@ -25,6 +29,9 @@ While I created [Buffalo News styles](http://lexie.link/lunchbox), I gained fami
 
 ### [dailygraphics](https://github.com/lexieheinle/dailygraphics)
 Similar to the Lunchbox application, this project also taught me how to add new flask commands as well as integrate Google Sheets into D3 code.
+
+## Other Projects
+Not a map or a graph, these projects are a bit out of the ordinary.
 
 ### [Erie County Fair App](FairApp)
 Using the Carla Astudillo's [Feats Thru Sheets](https://github.com/CarlaAstudillo/feats_thru_sheets) program, I used IFTTT to pull in reporters' tweets of the Erie County Fair.
